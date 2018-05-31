@@ -7,27 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BA241B4620B565B7000BAEDA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA241B4520B565B7000BAEDA /* AppDelegate.swift */; };
-		BA241B4820B565B7000BAEDA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA241B4720B565B7000BAEDA /* ViewController.swift */; };
-		BA241B4B20B565B7000BAEDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA241B4920B565B7000BAEDA /* Main.storyboard */; };
-		BA241B4D20B565B8000BAEDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA241B4C20B565B8000BAEDA /* Assets.xcassets */; };
-		BA241B5020B565B8000BAEDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA241B4E20B565B8000BAEDA /* LaunchScreen.storyboard */; };
-		BA483AC720B666C300FE31BA /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA483AC620B666C300FE31BA /* ResultViewController.swift */; };
+		BAAF359520BACAA0006A5711 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAF359420BACAA0006A5711 /* AppDelegate.swift */; };
+		BAAF359720BACAA0006A5711 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAF359620BACAA0006A5711 /* ViewController.swift */; };
+		BAAF359A20BACAA0006A5711 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAAF359820BACAA0006A5711 /* Main.storyboard */; };
+		BAAF359C20BACAA3006A5711 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAAF359B20BACAA3006A5711 /* Assets.xcassets */; };
+		BAAF359F20BACAA3006A5711 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAAF359D20BACAA3006A5711 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BA241B4220B565B7000BAEDA /* SecandKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecandKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA241B4520B565B7000BAEDA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BA241B4720B565B7000BAEDA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		BA241B4A20B565B7000BAEDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BA241B4C20B565B8000BAEDA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BA241B4F20B565B8000BAEDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BA241B5120B565B8000BAEDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BA483AC620B666C300FE31BA /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		BAAF359120BACAA0006A5711 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BAAF359420BACAA0006A5711 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BAAF359620BACAA0006A5711 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BAAF359920BACAA0006A5711 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BAAF359B20BACAA3006A5711 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BAAF359E20BACAA3006A5711 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BAAF35A020BACAA3006A5711 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BA241B3F20B565B7000BAEDA /* Frameworks */ = {
+		BAAF358E20BACAA0006A5711 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +35,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BA241B3920B565B7000BAEDA = {
+		BAAF358820BACAA0006A5711 = {
 			isa = PBXGroup;
 			children = (
-				BA241B4420B565B7000BAEDA /* SecandKadaiApp */,
-				BA241B4320B565B7000BAEDA /* Products */,
+				BAAF359320BACAA0006A5711 /* SlideshowApp */,
+				BAAF359220BACAA0006A5711 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BA241B4320B565B7000BAEDA /* Products */ = {
+		BAAF359220BACAA0006A5711 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BA241B4220B565B7000BAEDA /* SecandKadaiApp.app */,
+				BAAF359120BACAA0006A5711 /* SlideshowApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BA241B4420B565B7000BAEDA /* SecandKadaiApp */ = {
+		BAAF359320BACAA0006A5711 /* SlideshowApp */ = {
 			isa = PBXGroup;
 			children = (
-				BA241B4520B565B7000BAEDA /* AppDelegate.swift */,
-				BA241B4720B565B7000BAEDA /* ViewController.swift */,
-				BA241B4920B565B7000BAEDA /* Main.storyboard */,
-				BA241B4C20B565B8000BAEDA /* Assets.xcassets */,
-				BA241B4E20B565B8000BAEDA /* LaunchScreen.storyboard */,
-				BA241B5120B565B8000BAEDA /* Info.plist */,
-				BA483AC620B666C300FE31BA /* ResultViewController.swift */,
+				BAAF359420BACAA0006A5711 /* AppDelegate.swift */,
+				BAAF359620BACAA0006A5711 /* ViewController.swift */,
+				BAAF359820BACAA0006A5711 /* Main.storyboard */,
+				BAAF359B20BACAA3006A5711 /* Assets.xcassets */,
+				BAAF359D20BACAA3006A5711 /* LaunchScreen.storyboard */,
+				BAAF35A020BACAA3006A5711 /* Info.plist */,
 			);
-			path = SecandKadaiApp;
+			path = SlideshowApp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BA241B4120B565B7000BAEDA /* SecandKadaiApp */ = {
+		BAAF359020BACAA0006A5711 /* SlideshowApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BA241B5420B565B8000BAEDA /* Build configuration list for PBXNativeTarget "SecandKadaiApp" */;
+			buildConfigurationList = BAAF35A320BACAA3006A5711 /* Build configuration list for PBXNativeTarget "SlideshowApp" */;
 			buildPhases = (
-				BA241B3E20B565B7000BAEDA /* Sources */,
-				BA241B3F20B565B7000BAEDA /* Frameworks */,
-				BA241B4020B565B7000BAEDA /* Resources */,
+				BAAF358D20BACAA0006A5711 /* Sources */,
+				BAAF358E20BACAA0006A5711 /* Frameworks */,
+				BAAF358F20BACAA0006A5711 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SecandKadaiApp;
-			productName = SecandKadaiApp;
-			productReference = BA241B4220B565B7000BAEDA /* SecandKadaiApp.app */;
+			name = SlideshowApp;
+			productName = SlideshowApp;
+			productReference = BAAF359120BACAA0006A5711 /* SlideshowApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BA241B3A20B565B7000BAEDA /* Project object */ = {
+		BAAF358920BACAA0006A5711 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = masatoshi.hasegawa;
 				TargetAttributes = {
-					BA241B4120B565B7000BAEDA = {
+					BAAF359020BACAA0006A5711 = {
 						CreatedOnToolsVersion = 9.3;
 					};
 				};
 			};
-			buildConfigurationList = BA241B3D20B565B7000BAEDA /* Build configuration list for PBXProject "SecandKadaiApp" */;
+			buildConfigurationList = BAAF358C20BACAA0006A5711 /* Build configuration list for PBXProject "SlideshowApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = BA241B3920B565B7000BAEDA;
-			productRefGroup = BA241B4320B565B7000BAEDA /* Products */;
+			mainGroup = BAAF358820BACAA0006A5711;
+			productRefGroup = BAAF359220BACAA0006A5711 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BA241B4120B565B7000BAEDA /* SecandKadaiApp */,
+				BAAF359020BACAA0006A5711 /* SlideshowApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BA241B4020B565B7000BAEDA /* Resources */ = {
+		BAAF358F20BACAA0006A5711 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA241B5020B565B8000BAEDA /* LaunchScreen.storyboard in Resources */,
-				BA241B4D20B565B8000BAEDA /* Assets.xcassets in Resources */,
-				BA241B4B20B565B7000BAEDA /* Main.storyboard in Resources */,
+				BAAF359F20BACAA3006A5711 /* LaunchScreen.storyboard in Resources */,
+				BAAF359C20BACAA3006A5711 /* Assets.xcassets in Resources */,
+				BAAF359A20BACAA0006A5711 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BA241B3E20B565B7000BAEDA /* Sources */ = {
+		BAAF358D20BACAA0006A5711 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA241B4820B565B7000BAEDA /* ViewController.swift in Sources */,
-				BA241B4620B565B7000BAEDA /* AppDelegate.swift in Sources */,
-				BA483AC720B666C300FE31BA /* ResultViewController.swift in Sources */,
+				BAAF359720BACAA0006A5711 /* ViewController.swift in Sources */,
+				BAAF359520BACAA0006A5711 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		BA241B4920B565B7000BAEDA /* Main.storyboard */ = {
+		BAAF359820BACAA0006A5711 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BA241B4A20B565B7000BAEDA /* Base */,
+				BAAF359920BACAA0006A5711 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		BA241B4E20B565B8000BAEDA /* LaunchScreen.storyboard */ = {
+		BAAF359D20BACAA3006A5711 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BA241B4F20B565B8000BAEDA /* Base */,
+				BAAF359E20BACAA3006A5711 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		BA241B5220B565B8000BAEDA /* Debug */ = {
+		BAAF35A120BACAA3006A5711 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +222,7 @@
 			};
 			name = Debug;
 		};
-		BA241B5320B565B8000BAEDA /* Release */ = {
+		BAAF35A220BACAA3006A5711 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,36 +276,36 @@
 			};
 			name = Release;
 		};
-		BA241B5520B565B8000BAEDA /* Debug */ = {
+		BAAF35A420BACAA3006A5711 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 394V78FSJ2;
-				INFOPLIST_FILE = SecandKadaiApp/Info.plist;
+				INFOPLIST_FILE = SlideshowApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.masatoshi.hasegawa.SecandKadaiApp;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.masatoshi.hasegawa.SlideshowApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		BA241B5620B565B8000BAEDA /* Release */ = {
+		BAAF35A520BACAA3006A5711 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 394V78FSJ2;
-				INFOPLIST_FILE = SecandKadaiApp/Info.plist;
+				INFOPLIST_FILE = SlideshowApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.masatoshi.hasegawa.SecandKadaiApp;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.masatoshi.hasegawa.SlideshowApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -319,25 +315,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BA241B3D20B565B7000BAEDA /* Build configuration list for PBXProject "SecandKadaiApp" */ = {
+		BAAF358C20BACAA0006A5711 /* Build configuration list for PBXProject "SlideshowApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BA241B5220B565B8000BAEDA /* Debug */,
-				BA241B5320B565B8000BAEDA /* Release */,
+				BAAF35A120BACAA3006A5711 /* Debug */,
+				BAAF35A220BACAA3006A5711 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BA241B5420B565B8000BAEDA /* Build configuration list for PBXNativeTarget "SecandKadaiApp" */ = {
+		BAAF35A320BACAA3006A5711 /* Build configuration list for PBXNativeTarget "SlideshowApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BA241B5520B565B8000BAEDA /* Debug */,
-				BA241B5620B565B8000BAEDA /* Release */,
+				BAAF35A420BACAA3006A5711 /* Debug */,
+				BAAF35A520BACAA3006A5711 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BA241B3A20B565B7000BAEDA /* Project object */;
+	rootObject = BAAF358920BACAA0006A5711 /* Project object */;
 }

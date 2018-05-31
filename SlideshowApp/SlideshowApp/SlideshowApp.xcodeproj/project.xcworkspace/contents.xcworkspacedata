@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SecandKadaiApp.xcodeproj">
+      location = "self:SlideshowApp.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,29 +1,31 @@
 //
 //  ResultViewController.swift
-//  SecandKadaiApp
+//  SecondKadaiApp
 //
-//  Created by 長谷川正敏 on 2018/05/24.
+//  Created by 長谷川正敏 on 2018/05/25.
 //  Copyright © 2018年 masatoshi.hasegawa. All rights reserved.
 //
 
 import UIKit
 
 class ResultViewController: UIViewController {
-
-    @IBOutlet weak var paramLabel: UILabel!
     
-    //パラメータ受取用プロパティ
-    var param:String = "init param"
+    @IBOutlet weak var label: UILabel!
+    var x:String = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // Do any additional setup after loading the view.
+        let result = x
+        label.text = "こんにちは、\(result)さん"
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
 
     /*
     // MARK: - Navigation

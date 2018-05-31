@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  SecandKadaiApp
+//  SlideshowApp
 //
-//  Created by 長谷川正敏 on 2018/05/23.
+//  Created by 長谷川正敏 on 2018/05/27.
 //  Copyright © 2018年 masatoshi.hasegawa. All rights reserved.
 //
 
@@ -18,9 +18,8 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
-        
     }
-    @IBAction func unwind(_ segue: UIStoryboardSegue) {
-    }
+
+
 }
 

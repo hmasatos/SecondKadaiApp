@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SecandKadaiApp
+//  SecondKadaiApp
 //
-//  Created by 長谷川正敏 on 2018/05/23.
+//  Created by 長谷川正敏 on 2018/05/25.
 //  Copyright © 2018年 masatoshi.hasegawa. All rights reserved.
 //
 
