@@ -98,8 +98,6 @@
                         </subviews>
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="TFW-6k-4qg" firstAttribute="leading" secondItem="3xJ-e2-W82" secondAttribute="leading" constant="150" id="C6S-OM-lXg"/>
-                            <constraint firstItem="3xJ-e2-W82" firstAttribute="trailing" secondItem="TFW-6k-4qg" secondAttribute="trailing" constant="150" id="CDy-kj-Iyh"/>
                             <constraint firstItem="B6Z-su-1S4" firstAttribute="leading" secondItem="3xJ-e2-W82" secondAttribute="leading" constant="170" id="G3h-eq-zTX"/>
                             <constraint firstItem="3xJ-e2-W82" firstAttribute="trailing" secondItem="TFW-6k-4qg" secondAttribute="trailing" constant="50" id="Gb7-TE-aPW"/>
                             <constraint firstItem="3xJ-e2-W82" firstAttribute="trailing" secondItem="B6Z-su-1S4" secondAttribute="trailing" constant="170" id="SaJ-aV-ACH"/>
